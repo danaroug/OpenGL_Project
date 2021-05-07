@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\gl\freeglut_std.h(618): warning C4505: 'glutCreateMenu_ATEXIT_HACK': unreferenced local function has been removed
+  OpenGLRotatingCube.vcxproj -> C:\Users\Danae\Desktop\OpenGLRotatingCube\Debug\OpenGLRotatingCube.exe
